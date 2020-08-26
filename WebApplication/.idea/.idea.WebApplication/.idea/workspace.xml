@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1281315-1266-4ea1-ba98-5c5a01b51063" name="Default Changelist" comment="" />
+    <list default="true" id="f1281315-1266-4ea1-ba98-5c5a01b51063" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1geJH9KjTgeMP00HQrd0CSGTVgW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication">
@@ -60,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598469034022</updated>
-      <workItem from="1598469035387" duration="303000" />
+      <workItem from="1598469035387" duration="709000" />
     </task>
     <servers />
   </component>
@@ -69,6 +79,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1397" y="-169" key="Rider.ProjectTemplateDialog.Size" timestamp="1598469091480">
       <screen x="-1920" y="-350" width="1920" height="1080" />
