@@ -6,7 +6,7 @@ namespace DeekDBS.Service
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
