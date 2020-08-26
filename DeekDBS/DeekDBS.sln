@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeekDBS.API", "DeekDBS.API\DeekDBS.API.csproj", "{F090070D-C406-42F4-ACDE-CAA34CE49AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeekDBS.Service", "DeekDBS.Service\DeekDBS.Service.csproj", "{4E1BAF01-98BE-451E-932B-141BC34CFB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeekDBS.BLL", "DeekDBS.BLL\DeekDBS.BLL.csproj", "{73253EDC-AEB2-4E99-8E6B-9F78544F2C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeekDBS.API.Tests", "DeekDBS.API.Tests\DeekDBS.API.Tests.csproj", "{6D5FD224-8D08-4B5D-8274-9E9AF3DB99EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F090070D-C406-42F4-ACDE-CAA34CE49AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F090070D-C406-42F4-ACDE-CAA34CE49AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F090070D-C406-42F4-ACDE-CAA34CE49AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F090070D-C406-42F4-ACDE-CAA34CE49AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1BAF01-98BE-451E-932B-141BC34CFB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1BAF01-98BE-451E-932B-141BC34CFB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1BAF01-98BE-451E-932B-141BC34CFB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1BAF01-98BE-451E-932B-141BC34CFB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73253EDC-AEB2-4E99-8E6B-9F78544F2C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73253EDC-AEB2-4E99-8E6B-9F78544F2C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73253EDC-AEB2-4E99-8E6B-9F78544F2C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73253EDC-AEB2-4E99-8E6B-9F78544F2C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5FD224-8D08-4B5D-8274-9E9AF3DB99EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5FD224-8D08-4B5D-8274-9E9AF3DB99EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5FD224-8D08-4B5D-8274-9E9AF3DB99EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5FD224-8D08-4B5D-8274-9E9AF3DB99EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
