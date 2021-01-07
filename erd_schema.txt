@@ -1,0 +1,24 @@
+Table connections {
+  id integer [pk]
+  name varchar(100)
+  value varchar(255)
+  isPrimary tinyint(1)
+}
+
+
+Table TriggerTracking {
+  id bigint [pk]
+  table_name varchar
+  pk_watch varchar
+  sk_watch varchar
+  pk_type varchar
+  sk_type varchar
+}
+
+Table connection_table_instance {
+  id bigint [pk]
+  pk_watch varchar
+  sk_watch varchar
+  pk_type varchar
+  sk_type varchar
+}

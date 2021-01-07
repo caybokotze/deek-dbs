@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1281315-1266-4ea1-ba98-5c5a01b51063" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/.idea/.idea.DeekDBS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/CQRS/BaseExecutor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/CQRS/BaseExecutor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/CQRS/Command.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/CQRS/Command.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/DBMS/MySql/InsertTransactionTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/DBMS/MySql/InsertTransactionTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/DeekDBS.BLL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/DeekDBS.BLL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/Debug/netcoreapp3.1/DeekDBS.BLL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/Debug/netcoreapp3.1/DeekDBS.BLL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/DeekDBS.BLL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/DeekDBS.BLL.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/DeekDBS.BLL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/DeekDBS.BLL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erd_schema.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../erd_schema.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../DeekDBS/DeekDBS.BLL/CQRS/BaseExecutor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1geJH9KjTgeMP00HQrd0CSGTVgW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
