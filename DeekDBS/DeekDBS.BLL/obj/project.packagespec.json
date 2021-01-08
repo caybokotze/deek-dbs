@@ -28,9 +28,9 @@
   "frameworks": {
     "netcoreapp3.1": {
       "dependencies": {
-        "Dapper": {
+        "Dapper.Doodle": {
           "target": "Package",
-          "version": "[2.0.35, )"
+          "version": "[1.0.0, )"
         }
       },
       "imports": [

@@ -42,6 +42,10 @@
             "Dapper.Doodle": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
