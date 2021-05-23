@@ -1,6 +1,6 @@
 # Description
 
-> DeekDbs (Database Syncer) is a database syncing / migration tool that can be used to copy or sync data across environments. The inspiration behind this project is to make the syncing, migration and backup of databases a bit easier when managing multiple clusters of databases.
+> DekeDbs (Database Syncer) is a database syncing / migration tool that can be used to copy or sync data across environments. The inspiration behind this project is to make the syncing, migration and backup of databases a bit easier when managing multiple clusters of databases.
 
 # Primary Use Cases
 
@@ -14,7 +14,7 @@
 
 A practical small use case for this could be where someone has 2 Wordpress websites and would like to sync posts made between the two websites.
 
-Deek DBS can be used to quickly sync data across 1 or more than one environment across different database management systems. Currently the following are/will be supported.
+Deke DBS can be used to quickly sync data across 1 or more than one environment across different database management systems. Currently the following are/will be supported.
 
 # Supported Database Management Systems
 
